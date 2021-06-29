@@ -1,0 +1,19 @@
+
+States:
+q1, q2, q3
+
+Alphabet:
+1, 2
+
+Beginning state:
+q1
+
+Ending states:
+q2 
+
+Transitions:
+	1	2	
+q1	q1	q3	
+q2	q2	q3	
+q3	q1	q2	
+
